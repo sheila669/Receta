@@ -1,0 +1,14 @@
+body {
+  background-image: url("../imagenes/opd.jpg");
+  background-attachment: fixed;
+}
+
+
+h2 { color: Maroon;
+  background-color: FireBrick;
+}
+
+.Malefici {color: #701705;
+  background-color: FireBrick;
+  text-decoration: FireBrick;
+}
