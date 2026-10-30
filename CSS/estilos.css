@@ -3,12 +3,50 @@ body {
   background-attachment: fixed;
 }
 
+header {display: flex;
 
-h2 { color: Maroon;
+}
+
+.redes {width: 90px;
+        height: 90px;
+      }
+
+.logo {width: 90px;
+       border-radius: 50%;
+}
+
+
+.Maroon { color: Maroon;
   background-color: FireBrick;
 }
 
 .Malefici {color: #701705;
   background-color: FireBrick;
   text-decoration: FireBrick;
+          }
+
+h1:hover { color: red;
+            background-color: FireBrick;
+          }
+
+header {background-color: #B12307;
+       }
+
+header {display: flex;
+      justify-content: space-around;
+      align-items: center;
+}
+
+
+footer {display: flex;
+        justify-content: space-around;
+        align-items: center;
+}
+
+.mapa {width: 500px;
+       height: 400px;
+}
+
+.comida {width: 500px;
+         height: 400px;
 }
